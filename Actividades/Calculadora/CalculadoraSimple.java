@@ -24,6 +24,8 @@ public class CalculadoraSimple {
 		System.out.println("Resultado de la suma: " + resultadoSuma);
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		System.out.println("\nEsto es la modificación del ejercició 3.");
+		System.out.println("\nEsto es la segunda modificación del ejercició 3.");
 		scanner.close();
+		
 	}
 }
