@@ -25,6 +25,7 @@ public class CalculadoraSimple {
 		System.out.println("Resultado de la resta: " + resultadoResta);
 		System.out.println("\nEsto es la modificación del ejercició 3.");
 		System.out.println("\nEsto es la segunda modificación del ejercició 3.");
+		System.out.println("Cambio hecho desde la rama feature");
 		scanner.close();
 		
 	}
