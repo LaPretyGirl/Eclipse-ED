@@ -26,6 +26,7 @@ public class CalculadoraSimple {
 		System.out.println("\nEsto es la modificación del ejercició 3.");
 		System.out.println("\nEsto es la segunda modificación del ejercició 3.");
 		System.out.println("Cambio hecho desde la rama feature");
+		System.out.println("Cambio hecho desde el GitHub");
 		scanner.close();
 		
 	}
